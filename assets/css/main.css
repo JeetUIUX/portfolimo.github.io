@@ -3950,3 +3950,16 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+.aboutBox{
+
+	height: 500px;
+	width: 700px;
+	border: solid beige 1px;
+	float:right;
+    position: absolute;
+    right: 100px;
+    top: 275px;
+
+	
+}
