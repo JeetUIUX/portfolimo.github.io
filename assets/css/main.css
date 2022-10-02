@@ -3953,13 +3953,15 @@ input, select, textarea {
 
 .aboutBox{
 
-	height: 500px;
-	width: 700px;
+	height: auto;
+	width: auto;
 	border: solid beige 1px;
-	float:right;
-    position: absolute;
-    right: 100px;
-    top: 275px;
-
+	padding: 40px;
 	
+
+}
+#resume{
+
+	text-decoration: none !important;
+	color:#2a2f4a;
 }
