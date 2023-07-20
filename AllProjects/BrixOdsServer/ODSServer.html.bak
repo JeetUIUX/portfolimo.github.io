@@ -242,7 +242,7 @@
           </div>
 
           <div class="col-lg-7">
-            <h3 class="pt-0 pt-lg-5">Sayali Patil</h3>
+            <h3 class="pt-0 pt-lg-5">Ashwini Patil</h3>
             <!-- Tab Content -->
             <div class="tab-content">
               <p> "Cup of tea can reduce a lot of stress."</p>
@@ -250,13 +250,13 @@
 
                <i class="bi bi-check-circle-fill"></i>Age : 25. <br>
                <i class="bi bi-check-circle-fill"></i>Education : BE Computer Science. <br>
-               <i class="bi bi-check-circle-fill"></i>Hometown : Satara. <br>
+               <i class="bi bi-check-circle-fill"></i>Hometown : Dhule. <br>
                <i class="bi bi-check-circle-fill"></i>Occupation : Backend developer.
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
                   <h4>Introduction</h4>
                 </div>
-                <p>Sayali is Software developer working in iASYS technology solutions Pvt Ltd , she looks after backend of this project.
+                <p>Ashwini is Software developer working in iASYS technology solutions Pvt Ltd , she looks after backend of this project.
                   always try to get things better and refine the coding skills. In free time she likes to travel new place and take pictures.
                 </p>
 
@@ -295,7 +295,7 @@
     </div>
   </div>
 <div class="col-lg-7">
-  <h3 class="pt-0 pt-lg-5">Sujay Desai</h3>
+  <h3 class="pt-0 pt-lg-5">Vivek Mahajan</h3>
   <!-- Tab Content -->
   <div class="tab-content">
     <p> "Work , eat ,sleep repeat."</p>
@@ -309,7 +309,7 @@
         <i class="bi bi-check2"></i>
         <h4>Introduction</h4>
       </div>
-      <p>Sujay is project manager in iASYS, looks after all the management of project.
+      <p>Vivek is project manager in iASYS, looks after all the management of project.
         likes to code and learn new things and implement it in the project. He likes all the things to be systematic.
       </p>
 
